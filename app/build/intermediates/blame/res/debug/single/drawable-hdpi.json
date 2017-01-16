@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\rj\\AndroidStudioProjects\\AlcoholChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_equalizer_black_24dp.png",
+        "source": "C:\\Users\\rj\\AndroidStudioProjects\\AlcoholChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_equalizer_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rj\\AndroidStudioProjects\\AlcoholChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_add.png",
+        "source": "C:\\Users\\rj\\AndroidStudioProjects\\AlcoholChecker\\app\\src\\main\\res\\drawable-hdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\rj\\AndroidStudioProjects\\AlcoholChecker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_error_black_24dp.png",
+        "source": "C:\\Users\\rj\\AndroidStudioProjects\\AlcoholChecker\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_error_black_24dp.png"
+    }
+]

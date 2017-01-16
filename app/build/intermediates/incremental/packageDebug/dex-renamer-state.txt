@@ -1,0 +1,7 @@
+#Mon Jan 16 17:33:34 JST 2017
+base.0=C\:\\Users\\rj\\AndroidStudioProjects\\AlcoholChecker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b67788ec3033dff7d3e81ad2baaf2ba41345fe70
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\rj\\AndroidStudioProjects\\AlcoholChecker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f1aa53c62224f8fbd06baee52b263567bfd20f0b\\classes.dex
+base.1=C\:\\Users\\rj\\AndroidStudioProjects\\AlcoholChecker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f1aa53c62224f8fbd06baee52b263567bfd20f0b
+file.0=C\:\\Users\\rj\\AndroidStudioProjects\\AlcoholChecker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b67788ec3033dff7d3e81ad2baaf2ba41345fe70\\classes.dex
